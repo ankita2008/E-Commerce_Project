@@ -209,3 +209,48 @@
     border-radius:5px;
     cursor:pointer;
 }
+
+.qty-btn{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:15px;
+    margin:15px 0;
+}
+
+.qty-btn button{
+    width:40px;
+    height:40px;
+    font-size:20px;
+    cursor:pointer;
+}
+
+.qty-btn span{
+    font-size:20px;
+    font-weight:bold;
+}
+
+
+.grand-total{
+    text-align:center;
+    margin:30px;
+}
+
+.grand-total h2{
+    color:green;
+}
+
+.grand-total button{
+    margin-top:20px;
+    padding:12px 25px;
+    border:none;
+    background:green;
+    color:white;
+    font-size:18px;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+.grand-total button:hover{
+    background:darkgreen;
+}

@@ -4,7 +4,7 @@ const products = [
     name: "Nike Shoes",
     price: 3500,
     category: "Shoes",
-    image: "https://picsum.photos/200?1",
+    image: "/images/nike.jpg",
     description: "Comfortable running shoes."
   },
   {
@@ -12,7 +12,7 @@ const products = [
     name: "T-Shirt",
     price: 800,
     category: "Clothes",
-    image: "https://picsum.photos/200?2",
+    image: "/images/tshirt.jpg",
     description: "100% Cotton T-Shirt."
   },
   {
@@ -20,7 +20,7 @@ const products = [
     name: "Smart Watch",
     price: 2500,
     category: "Watch",
-    image: "https://picsum.photos/200?3",
+    image: "/images/watch.jpg",
     description: "Digital Smart Watch."
   },
   {
@@ -28,7 +28,7 @@ const products = [
     name: "Adidas Shoes",
     price: 4500,
     category: "Shoes",
-    image: "https://picsum.photos/200?4",
+    image: "/images/adidas.jpg",
     description: "Sports Shoes."
   },
   {
@@ -36,7 +36,7 @@ const products = [
     name: "Jeans",
     price: 1500,
     category: "Clothes",
-    image: "https://picsum.photos/200?5",
+    image: "/images/jeans.jpg",
     description: "Blue Denim Jeans."
   },
   {
@@ -44,7 +44,7 @@ const products = [
     name: "Rolex Watch",
     price: 5000,
     category: "Watch",
-    image: "https://picsum.photos/200?6",
+    image: "/images/rolex.jpg",
     description: "Luxury Watch."
   }
 ];
